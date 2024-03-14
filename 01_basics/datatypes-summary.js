@@ -1,4 +1,4 @@
-//  Primitive
+//  Primitive (call by value: A copy of the reference of the data is allocated in the memory )
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
@@ -18,7 +18,7 @@ console.log(id === anotherId);
 
 
 
-// Reference (Non primitive)
+// Reference (Non primitive: call by reference, reference of the data can be directly allocated in the memory)
 
 // Array, Objects, Functions
 
